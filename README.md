@@ -1,4 +1,4 @@
-![TabBar](https://github.com/wxxsw/TabBar/blob/master/Images/logo.png)
+![TabBar](https://github.com/wxxsw/TabBar/blob/master/Images/logo.png?0223)
 
 <p align="center">
 <a href="https://developer.apple.com/swift"><img src="https://img.shields.io/badge/language-Swift%205-f48041.svg?style=flat"></a>
